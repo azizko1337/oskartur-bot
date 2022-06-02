@@ -1,6 +1,6 @@
 # OSKARTUR-BOT
 
-## This application was destined to check free driving lessons in driving school every 10-20 minutes (randomly). If it will see free drives on website app will send an email.
+## This application was destined to check free driving lessons in driving school every 10-20 minutes (randomly). If it will see free drives on website app send an email.
 
 ## Is this app still usable?
 
