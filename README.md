@@ -1,6 +1,6 @@
 # OSKARTUR-BOT
 
-## This application was destined to check free driving lessons in driving school every 10-20 minutes (randomly). If it will see free drives on website app send an email.
+## This application was destined to check free driving lessons in driving school every 10-20 minutes (randomly). If this app will see free drives on website, it send an email. (App uses puppeteer to visit oskartur.pl website and check the timetable)
 
 ## Is this app still usable?
 
