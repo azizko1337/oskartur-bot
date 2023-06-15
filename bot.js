@@ -68,7 +68,6 @@ const checkDrives = async () => {
         pass: config.GMAIL_AUTH_PASSWORD,
       },
     });
-    // ZMIENNNN
     const mailOptions = {
       from: config.GMAIL_AUTH_EMAIL,
       to: config.MAIL_TO,
